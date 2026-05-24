@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Only The Beginning
+
+This log tracks the cryptographic history and versioning for the song **Only The Beginning** (only-the-beginning).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-25T04:41:08.873750 | `v1` | `ae4634f25ae3b9e934b5f4d43e590339c0eea6493f92338b134d95a28d36b1f2` | `096216d87e8a67a4260f7824c9411ed82a053a15ca0ad82004ff17aa4406f2e3` | `2026-05-25_only-the-beginning-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
