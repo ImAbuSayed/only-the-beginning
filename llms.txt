@@ -15,7 +15,7 @@
 | **Written On** | May 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/only-the-beginning/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Only The Beginning](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/only-the-beginning/) |
+| **Get License** | [Secure Licensing Rights for Only The Beginning](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/only-the-beginning/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/2066)
 
 ---
 
